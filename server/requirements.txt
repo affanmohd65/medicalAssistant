@@ -1,0 +1,37 @@
+# Web Framwork
+
+fastapi
+uvicorn[standard]
+python-multipart # for file upload
+
+#Langchain 
+
+langchain
+langchain-community
+langchain-core
+langchain-groq
+
+#vector database
+
+pinecone
+
+# enbeddings
+
+langchain-google-genai
+
+# PDF Parsing
+
+PyPDF
+
+#Environment Variable
+python-dotenv
+
+#utilities
+
+pydantic
+requests
+tqdm
+
+#logging
+
+loguru
