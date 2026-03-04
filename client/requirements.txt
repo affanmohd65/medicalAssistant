@@ -11,5 +11,9 @@ langchain-text-splitters==0.3.0
 sentence-transformers
 pinecone-client
 pypdf
-streamlit
 requests
+tqdm
+pydantic
+torch
+transformers
+huggingface-hub
