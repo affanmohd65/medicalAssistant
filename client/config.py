@@ -1,2 +1,2 @@
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://medicalassistant1-3ov6.onrender.com"
 APP_TITLE = "Medical Assistant"
